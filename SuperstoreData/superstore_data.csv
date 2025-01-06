@@ -1,0 +1,21 @@
+Order ID,Order Date,Ship Date,Region,Product,Category,Sales,Quantity,Profit
+ORD-0001,1/1/2024,1/3/2024,East,Product A,Furniture,380.75,1,47.67
+ORD-0002,1/2/2024,1/4/2024,West,Product B,Office Supplies,125.2,2,88.26
+ORD-0003,1/3/2024,1/5/2024,Central,Product C,Technology,297.63,3,53.11
+ORD-0004,1/4/2024,1/6/2024,South,Product D,Furniture,499.1,4,20.04
+ORD-0005,1/5/2024,1/7/2024,East,Product E,Office Supplies,470.16,1,96.97
+ORD-0006,1/6/2024,1/8/2024,West,Product A,Technology,382.78,2,31.56
+ORD-0007,1/7/2024,1/9/2024,Central,Product B,Furniture,426.65,3,110.96
+ORD-0008,1/8/2024,1/10/2024,South,Product C,Office Supplies,417.31,4,115.39
+ORD-0009,1/9/2024,1/11/2024,East,Product D,Technology,466.44,1,83.32
+ORD-0010,1/10/2024,1/12/2024,West,Product E,Furniture,116.38,2,88.55
+ORD-0011,1/11/2024,1/13/2024,Central,Product A,Office Supplies,282.32,3,102.59
+ORD-0012,1/12/2024,1/14/2024,South,Product B,Technology,220.85,4,101.35
+ORD-0013,1/13/2024,1/15/2024,East,Product C,Furniture,201.74,1,39.19
+ORD-0014,1/14/2024,1/16/2024,West,Product D,Office Supplies,124.8,2,97.11
+ORD-0015,1/15/2024,1/17/2024,Central,Product E,Technology,460.76,3,105.94
+ORD-0016,1/16/2024,1/18/2024,South,Product A,Furniture,188.04,4,76.01
+ORD-0017,1/17/2024,1/19/2024,East,Product B,Office Supplies,395.95,1,68.96
+ORD-0018,1/18/2024,1/20/2024,West,Product C,Technology,171.43,2,102.21
+ORD-0019,1/19/2024,1/21/2024,Central,Product D,Furniture,376.87,3,81.45
+ORD-0020,1/20/2024,1/22/2024,South,Product E,Office Supplies,203.35,4,40.69

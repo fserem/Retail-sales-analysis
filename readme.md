@@ -56,10 +56,13 @@ This project analyzes retail sales data to uncover trends, identify top-performi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/retail-sales-analysis.git
+   git clone https://github.com/fserem/retail-sales-analysis.git
    ```
 2. Open the dashboard file in Power BI .
 3. Review the insights and explore the visualizations.
+
+## Dashboard
+![Dashboard Overview](visuals/image.png)
 
 ## Dataset
 
@@ -69,3 +72,4 @@ This project analyzes retail sales data to uncover trends, identify top-performi
 
 - Automate data processing with Python.
 - Integrate machine learning for predictive analysis.
+

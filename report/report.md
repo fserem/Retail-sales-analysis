@@ -85,7 +85,7 @@ For more details, refer to the accompanying Power BI dashboard or contact [Your 
 ---
 
 ## Appendix
-- **Tools Used:** Power BI, Excel, SQL
+- **Tools Used:** Power BI, Excel
 - **Data Source:** [Sample Superstore Data](https://community.tableau.com/s/question/0D54T00000CWe8DSAT/sample-superstore-data)
 - **Future Enhancements:**
   - Automate data processing with Python.

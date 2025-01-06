@@ -62,7 +62,7 @@ This project analyzes retail sales data to uncover trends, identify top-performi
 3. Review the insights and explore the visualizations.
 
 ## Dashboard
-![Dashboard Overview](visuals/image.png)
+![Dashboard Overview](Visuals/image.png)
 
 ## Dataset
 
